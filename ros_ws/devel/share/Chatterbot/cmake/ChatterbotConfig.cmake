@@ -1,0 +1,1 @@
+/home/kid-116/ros_ws/devel/.private/Chatterbot/share/Chatterbot/cmake/ChatterbotConfig.cmake

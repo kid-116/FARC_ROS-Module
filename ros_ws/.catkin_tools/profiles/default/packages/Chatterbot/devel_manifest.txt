@@ -1,0 +1,5 @@
+Chatterbot
+/home/kid-116/ros_ws/devel/.private/Chatterbot/cmake.lock /home/kid-116/ros_ws/devel/./cmake.lock
+/home/kid-116/ros_ws/devel/.private/Chatterbot/lib/pkgconfig/Chatterbot.pc /home/kid-116/ros_ws/devel/lib/pkgconfig/Chatterbot.pc
+/home/kid-116/ros_ws/devel/.private/Chatterbot/share/Chatterbot/cmake/ChatterbotConfig.cmake /home/kid-116/ros_ws/devel/share/Chatterbot/cmake/ChatterbotConfig.cmake
+/home/kid-116/ros_ws/devel/.private/Chatterbot/share/Chatterbot/cmake/ChatterbotConfig-version.cmake /home/kid-116/ros_ws/devel/share/Chatterbot/cmake/ChatterbotConfig-version.cmake

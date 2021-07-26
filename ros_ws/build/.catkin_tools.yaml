@@ -1,0 +1,6 @@
+devel_space: /home/kid-116/ros_ws/devel
+install: false
+install_space: /home/kid-116/ros_ws/install
+profile: default
+source_space: /home/kid-116/ros_ws/src
+workspace: /home/kid-116/ros_ws

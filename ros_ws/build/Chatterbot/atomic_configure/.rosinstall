@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kid-116/ros_ws/devel/.private/Chatterbot/setup.sh
