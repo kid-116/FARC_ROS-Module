@@ -1,1 +1,1 @@
-/home/kid-116/ros_ws/devel/.private/catkin_tools_prebuild/setup.zsh
+/home/kid-116/FARC_ROS-Module/ros_ws/devel/.private/catkin_tools_prebuild/setup.zsh

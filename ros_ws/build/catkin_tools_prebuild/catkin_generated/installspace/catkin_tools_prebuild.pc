@@ -1,4 +1,4 @@
-prefix=/home/kid-116/ros_ws/install
+prefix=/home/kid-116/FARC_ROS-Module/ros_ws/install
 
 Name: catkin_tools_prebuild
 Description: Description of catkin_tools_prebuild

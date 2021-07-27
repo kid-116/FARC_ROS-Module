@@ -4,5 +4,5 @@ PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
 PROJECT_CATKIN_DEPENDS = "".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
 PROJECT_NAME = "Chatterbot"
-PROJECT_SPACE_DIR = "/home/kid-116/ros_ws/devel/.private/Chatterbot"
+PROJECT_SPACE_DIR = "/home/kid-116/FARC_ROS-Module/ros_ws/devel/.private/Chatterbot"
 PROJECT_VERSION = "0.0.0"

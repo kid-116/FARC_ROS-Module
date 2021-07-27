@@ -1,4 +1,4 @@
-prefix=/home/kid-116/ros_ws/devel/.private/Chatterbot
+prefix=/home/kid-116/FARC_ROS-Module/ros_ws/devel/.private/Chatterbot
 
 Name: Chatterbot
 Description: Description of Chatterbot

@@ -7,7 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/kid-116/ros_ws/devel/.private/Chatterbot:$CMAKE_PREFIX_PATH"
-export PWD='/home/kid-116/ros_ws/build/Chatterbot'
-export ROSLISP_PACKAGE_DIRECTORIES="/home/kid-116/ros_ws/devel/.private/Chatterbot/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/kid-116/ros_ws/src/Chatterbot:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/kid-116/FARC_ROS-Module/ros_ws/devel/.private/Chatterbot:$CMAKE_PREFIX_PATH"
+export PWD='/home/kid-116/FARC_ROS-Module/ros_ws/build/Chatterbot'
+export ROSLISP_PACKAGE_DIRECTORIES="/home/kid-116/FARC_ROS-Module/ros_ws/devel/.private/Chatterbot/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/home/kid-116/FARC_ROS-Module/ros_ws/src/Chatterbot:$ROS_PACKAGE_PATH"

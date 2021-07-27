@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/kid-116/ros_ws/src/Chatterbot
+CMAKE_SOURCE_DIR = /home/kid-116/FARC_ROS-Module/ros_ws/src/Chatterbot
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/kid-116/ros_ws/build/Chatterbot
+CMAKE_BINARY_DIR = /home/kid-116/FARC_ROS-Module/ros_ws/build/Chatterbot
 
 # Utility rule file for tests.
 
@@ -67,6 +67,6 @@ CMakeFiles/tests.dir/clean:
 .PHONY : CMakeFiles/tests.dir/clean
 
 CMakeFiles/tests.dir/depend:
-	cd /home/kid-116/ros_ws/build/Chatterbot && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kid-116/ros_ws/src/Chatterbot /home/kid-116/ros_ws/src/Chatterbot /home/kid-116/ros_ws/build/Chatterbot /home/kid-116/ros_ws/build/Chatterbot /home/kid-116/ros_ws/build/Chatterbot/CMakeFiles/tests.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/kid-116/FARC_ROS-Module/ros_ws/build/Chatterbot && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kid-116/FARC_ROS-Module/ros_ws/src/Chatterbot /home/kid-116/FARC_ROS-Module/ros_ws/src/Chatterbot /home/kid-116/FARC_ROS-Module/ros_ws/build/Chatterbot /home/kid-116/FARC_ROS-Module/ros_ws/build/Chatterbot /home/kid-116/FARC_ROS-Module/ros_ws/build/Chatterbot/CMakeFiles/tests.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/tests.dir/depend
 

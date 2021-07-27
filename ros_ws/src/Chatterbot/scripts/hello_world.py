@@ -2,18 +2,18 @@
 
 import rospy
 
-def main():
-    # Making the script a ROS Node
+def main():    
+    # Make the script a ROS Node
     rospy.init_node('node_hello_ros', anonymous=True)
 
     # Print info on console
     rospy.loginfo("Hello world!")
-
-    # Keep the node alive unless killed by user
-    # rospy.spin()
+    
+    # Keep the node unless killed by user
+    rospy.spin()
 
 if __name__ == '__main__':
     try:
         main()
-    except rospy.ROSInternalException:
+    except rospy.ROSInterruptException:
         pass
