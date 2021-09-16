@@ -1,0 +1,8 @@
+prefix=/home/kid-116/FARC_ROS-Module/ros_ws/devel/.private/circlebot
+
+Name: circlebot
+Description: Description of circlebot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
