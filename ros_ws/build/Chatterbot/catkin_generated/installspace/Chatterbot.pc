@@ -1,8 +1,0 @@
-prefix=/home/kid-116/FARC_ROS-Module/ros_ws/install
-
-Name: Chatterbot
-Description: Description of Chatterbot
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

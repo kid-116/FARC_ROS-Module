@@ -1,0 +1,5 @@
+chatterbot
+/home/kid-116/FARC_ROS-Module/ros_ws/devel/.private/chatterbot/cmake.lock /home/kid-116/FARC_ROS-Module/ros_ws/devel/./cmake.lock
+/home/kid-116/FARC_ROS-Module/ros_ws/devel/.private/chatterbot/lib/pkgconfig/chatterbot.pc /home/kid-116/FARC_ROS-Module/ros_ws/devel/lib/pkgconfig/chatterbot.pc
+/home/kid-116/FARC_ROS-Module/ros_ws/devel/.private/chatterbot/share/chatterbot/cmake/chatterbotConfig.cmake /home/kid-116/FARC_ROS-Module/ros_ws/devel/share/chatterbot/cmake/chatterbotConfig.cmake
+/home/kid-116/FARC_ROS-Module/ros_ws/devel/.private/chatterbot/share/chatterbot/cmake/chatterbotConfig-version.cmake /home/kid-116/FARC_ROS-Module/ros_ws/devel/share/chatterbot/cmake/chatterbotConfig-version.cmake
